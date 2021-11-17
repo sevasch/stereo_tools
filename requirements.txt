@@ -1,0 +1,6 @@
+numpy
+torch
+matplotlib
+wandb
+open3d
+opencv-python
